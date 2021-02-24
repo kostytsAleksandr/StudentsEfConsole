@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Students.Data
+namespace Students.Data.Repositories.Interfaces
 {
-    public class Class1
+    interface IStudentsAdoNetRepository
     {
     }
 }

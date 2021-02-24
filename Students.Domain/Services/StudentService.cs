@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Students.Models
+namespace Students.Domain.Services.Intefaces
 {
-    class ProfessorPostModel
+    class StudentService
     {
     }
 }

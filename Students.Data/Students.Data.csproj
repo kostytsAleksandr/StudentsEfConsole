@@ -41,13 +41,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="Repositories\Interfaces\IStudentsAdoNetRepository.cs" />
+    <Compile Include="Repositories\Interfaces\IStudentsDapperRepository.cs" />
+    <Compile Include="Repositories\StudentsAdoNetRepository.cs" />
+    <Compile Include="Repositories\StudentsDapperRepository.cs" />
+    <Compile Include="StudentsContext.cs" />
     <Compile Include="Models\Deparment.cs" />
     <Compile Include="Models\Professor.cs" />
     <Compile Include="Models\Student.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Repositories\IStudentsRepository.cs" />
-    <Compile Include="Repositories\StudentsRepository.cs" />
+    <Compile Include="Repositories\Interfaces\IStudentsRepository.cs" />
+    <Compile Include="Repositories\StudentsEfRepository.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
