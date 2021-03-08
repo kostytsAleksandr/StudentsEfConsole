@@ -1,0 +1,15 @@
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\Students.Data\bin\Debug\Students.Data.dll.config
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\Students.Data\bin\Debug\Students.Data.dll
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\Students.Data\bin\Debug\Students.Data.pdb
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\Students.Data\bin\Debug\EntityFramework.dll
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\Students.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\Students.Data\bin\Debug\EntityFramework.xml
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\Students.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\Students.Data\obj\Debug\Students.Data.csprojAssemblyReference.cache
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\Students.Data\obj\Debug\Students.Data.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\Students.Data\obj\Debug\Students.Data.csproj.CopyComplete
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\Students.Data\obj\Debug\Students.Data.dll
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\Students.Data\obj\Debug\Students.Data.pdb
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\Students.Data\obj\Debug\Students.Data.Migrations.initialcreate.resources
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\Students.Data\obj\Debug\Students.Data.csproj.GenerateResource.cache
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\Students.Data\obj\Debug\Students.Data.Migrations.Add_Entity_Department.resources

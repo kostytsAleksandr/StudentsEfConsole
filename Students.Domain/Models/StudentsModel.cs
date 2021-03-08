@@ -14,6 +14,6 @@ namespace Students.Domain.Models
         public int Age { get; set; }
 
         public ICollection<ProfessorsModel> Professors { get; set; }
-        // public ICollection<Department> Departments { get; set; }
+        public ICollection<DepartmentsModel> Departments { get; set; }
     }
 }

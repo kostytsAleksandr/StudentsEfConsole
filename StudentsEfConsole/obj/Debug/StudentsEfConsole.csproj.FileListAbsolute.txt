@@ -1,0 +1,12 @@
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\StudentsEfConsole\bin\Debug\StudentsEfConsole.exe.config
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\StudentsEfConsole\bin\Debug\StudentsEfConsole.exe
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\StudentsEfConsole\bin\Debug\StudentsEfConsole.pdb
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\StudentsEfConsole\bin\Debug\EntityFramework.dll
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\StudentsEfConsole\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\StudentsEfConsole\bin\Debug\EntityFramework.xml
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\StudentsEfConsole\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\StudentsEfConsole\obj\Debug\StudentsEfConsole.csprojAssemblyReference.cache
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\StudentsEfConsole\obj\Debug\StudentsEfConsole.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\StudentsEfConsole\obj\Debug\StudentsEfConsole.csproj.CopyComplete
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\StudentsEfConsole\obj\Debug\StudentsEfConsole.exe
+C:\Users\Aleksandr\source\A-Level\StudentsEfConsole\StudentsEfConsole\obj\Debug\StudentsEfConsole.pdb

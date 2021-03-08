@@ -11,7 +11,7 @@ namespace Students.Data.Models
         public Student()
         {
             Professors = new List<Professor>();
-           // Departments = new List<Department>();
+            Departments = new List<Department>();
         }
 
         public int Id { get; set; }
@@ -20,6 +20,6 @@ namespace Students.Data.Models
         public int Age { get; set; }
 
         public ICollection<Professor> Professors { get; set; }
-       // public ICollection<Department> Departments { get; set; }
+        public ICollection<Department> Departments { get; set; }
     }
 }

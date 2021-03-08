@@ -12,8 +12,8 @@ namespace Students.Domain.Models
         public string Name { get; set; }
         public string LastName { get; set; }
 
-        // public int? DepartmentId { get; set; }
-        //public Department Deparment { get; set; }
+        public int? DepartmentsModelId { get; set; }
+        public DepartmentsModel Deparments { get; set; }
         public ICollection<StudentsModel> Students { get; set; }
     }
 }
