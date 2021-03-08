@@ -11,12 +11,21 @@ namespace Students.Data.Repositories
     {
         public Student Create(Student model)
         {
-            throw new NotImplementedException();
+            using (var ctx = new StudentsContext("Default"))
+            {
+                ctx.Students.Add(model);
+                ctx.SaveChanges();
+            };
+
+            return model;
         }
 
         public IEnumerable<Student> GetAll()
         {
-            throw new NotImplementedException();
+            using (var ctx = new StudentsContext("Default"))
+            {
+                return ctx.Students.ToList();
+            };
         }
     }
 }
