@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Students.Domain.Services.Intefaces
 {
-    interface IStudentService
+    public interface IStudentsService
     {
         IEnumerable<StudentsModel> GetAll();
         StudentsModel Create(StudentsModel model);

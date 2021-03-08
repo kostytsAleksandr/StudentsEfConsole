@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Students.Data.Repositories.Interfaces
 {
-    interface IStudentsDapperRepository
+    public interface IStudentsDapperRepository
     {
     }
 }

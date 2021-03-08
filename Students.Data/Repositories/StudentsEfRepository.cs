@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Students.Data.Repositories
 {
-    class StudentsEfRepository : IStudentsRepository
+    public class StudentsEfRepository : IStudentsRepository
     {
         public Student Create(Student model)
         {

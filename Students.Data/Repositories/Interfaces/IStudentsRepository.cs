@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Students.Data.Repositories
 {
-    interface IStudentsRepository
+    public interface IStudentsRepository
     {
         IEnumerable<Student> GetAll();
         Student Create(Student model); 
