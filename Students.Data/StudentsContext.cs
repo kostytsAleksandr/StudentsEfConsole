@@ -17,7 +17,7 @@ namespace Students.Data
         {
         }
 
-        //public DbSet<Department> Departments { get; set; }
+        public DbSet<Department> Departments { get; set; }
         public DbSet<Professor> Professors { get; set; }
         public DbSet<Student> Students { get; set; }
     }

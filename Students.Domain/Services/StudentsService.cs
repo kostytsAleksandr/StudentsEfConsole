@@ -47,7 +47,7 @@ namespace Students.Domain.Services.Intefaces
                     LastName = student.LastName,
                     Name = student.Name
                 });
-            }
+            } 
             return result;
         }
     }
